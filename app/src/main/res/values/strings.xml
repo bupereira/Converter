@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ConverterByMurilo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="magnitude_array">
+        <item>Distance</item>
+        <item>Volume</item>
+        <item>Quick Conv.</item>
+    </string-array>
+    <string-array name="distance_array">
+        <item>m</item>
+        <item>ft</item>
+        <item>mi</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="volume_array">
+        <item>oz</item>
+        <item>fl.oz</item>
+        <item>gl</item>
+        <item>ml</item>
+        <item>l</item>
+    </string-array>
+    <string-array name="operator_array">
+        <item>+</item>
+        <item>-</item>
+        <item>X</item>
+        <item>÷</item>
+    </string-array>
+    <string-array name="quick_conv_array">
+        <item>Barrels to Gallons</item>
+        <item>Gallons to Barrels</item>
+        <item>Lbs to Metric Tons</item>
+        <item>Lbs to Long Tons</item>
+        <item>Lbs to Short Tons</item>
+        <item>Lbs to Kilos</item>
+        <item>m3 to  Barrels</item>
+        <item>m3 to  Gallons</item>
+        <item>Lbs/Gal to Liter Weight</item>
+        <item>Gallons to m3</item>
+        <item>Celsius to Fahrenheit</item>
+        <item>Bar to PSI</item>
+        <item>Lbs/Gal to Specific Gravity</item>
+        <item>Gallons to Liters</item>
+    </string-array>
+</resources>
